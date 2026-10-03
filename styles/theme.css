@@ -1,0 +1,24 @@
+:root {
+    --background-color: #5cb88ab0;
+    --text-color: #333;
+    --button-background-color: #d4ff00bc;
+    --button-text-color: #000000;
+    --text-weight: 4000;
+}
+
+.buttonPrimary {
+    background-color: var(--button-background-color);
+    color: var(--button-text-color);
+    border: none;
+    padding: 1rem 2rem;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 86px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-weight: var(--text-weight);
+    border-radius: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+}

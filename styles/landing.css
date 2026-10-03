@@ -1,0 +1,25 @@
+.main {
+    background-color: var(--background-color);
+    color: var(--text-color);
+    padding: 2rem;
+    text-align: center;
+    font-weight: 2000;
+    overflow-y: hidden;
+    overflow-x: auto;
+}
+
+.t1 {
+    align-items: center;
+    justify-content: center;
+    gap: 1rem;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 172px;
+}
+
+.tittle {
+    margin-bottom: 2rem;
+    text-align: center;
+    gap: 20rem;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 42px;
+}
